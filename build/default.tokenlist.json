@@ -2,7 +2,8 @@
   "name": "CheapSwap List",
   "logoURI": "https://ipfs.io/ipfs/QmaypvtnoXGQo4gSGHjgXaMUY98hf2FotQRfXgdLL4jo4i",
   "keywords": [
-    "defi", "cheapeth"
+    "defi",
+    "cheapeth"
   ],
   "timestamp": "2021-02-10T16:00:00.809+00:00",
   "tokens": [
@@ -29,6 +30,66 @@
       "symbol": "cRFI",
       "decimals": 9,
       "logoURI": "https://i.imgur.com/6YkJ15f.png"
+    },
+    {
+      "chainId": 777,
+      "address": "0x1779ae32faab2cbc2b97140802043fb833ef0135",
+      "name": "ANISHA",
+      "symbol": "ANI",
+      "decimals": 18
+    },
+    {
+      "chainId": 777,
+      "address": "0xFdBD3678d0179a52F30a8769b0D7b390a9f82EfE",
+      "name": "FIX",
+      "symbol": "FIX",
+      "decimals": 18
+    },
+    {
+      "chainId": 777,
+      "address": "0x75Eea6a2b146305BFd06929D94680A74959B226B",
+      "name": "MMtoken",
+      "symbol": "MM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/techleadhd/milliontoken/gh-pages/logo.svg"
+    },
+    {
+      "chainId": 777,
+      "address": "0x1711221Bd9D3d4cdd015c03bDB40eE843483CcE0",
+      "name": "IdaMurni",
+      "symbol": "IDA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/IdaMurni/website/main/src/assets/img/ida_murni_master.png"
+    },
+    {
+      "chainId": 777,
+      "address": "0xa91392e08cE5E06Ad3Cf8E0460bF0e45A564BE14",
+      "name": "mrfixit token",
+      "symbol": "MFT",
+      "decimals": 18
+    },
+    {
+      "chainId": 777,
+      "address": "0x85DF4b0968d48a9045D00bFF440f89635a65796B",
+      "name": "CheapLink",
+      "symbol": "CLINK",
+      "decimals": 18
+    },
+    {
+      "chainId": 777,
+      "address": "0xB869599Fd38f076A690369760B8815F67C4e2075",
+      "name": "pumpNdump",
+      "symbol": "pNd",
+      "decimals": 18,
+      "logoURI": "https://pumpndump.me/pNd.svg"
+    },
+    {
+      "chainId": 777,
+      "address": "0xa34273ce752f5a8e926fa213bb08728b2387e8f5",
+      "name": "BugCoin",
+      "symbol": "BUG",
+      "decimals": 18,
+      "logoURI": "https://my.bugminer.org/static/img/bugminer.png"
     }
   ],
   "version": {
